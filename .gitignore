@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets & Environment
+.env
+.env.*
+*.pem
+*.key
+*.token
+credentials.json
